@@ -56,6 +56,14 @@ To view the content of a `.lnk` (shortcut) file, you can use several methods. 
 
 You can open the `.lnk` file in a text editor (like Notepad) to see some of the raw data. However, the content will be mostly unreadable, as `.lnk` files are binary files. You can still see some text strings, such as the target path.
 
+![lnk1](https://github.com/user-attachments/assets/f44afac7-d621-4811-a54d-f7d2b5aea389)
+Opened in Linux textpad. Windows file with a command for powershell. Unusual for a mp3 file
+
+
+![lnk2](https://github.com/user-attachments/assets/c0c5a867-0c24-4f57-9d89-f27d390ca145)
+Opened in Windows notepad. Windows PowerShell .exe file and details of the command including the name and location of the script and its intended location.
+
+
 **2. Using Windows Explorer**
 
 1. **Right-click** on the shortcut file.
