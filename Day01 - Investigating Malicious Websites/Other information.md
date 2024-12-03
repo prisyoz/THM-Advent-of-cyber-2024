@@ -50,7 +50,7 @@ If this command observed in logs or detected by security tools:
 
 
 
-Multiple ways to inspect .lnk file to reveal embedded commands and attributes
+**Ways to inspect .lnk file to reveal embedded commands and attributes**
 
 To view the content of a `.lnk` (shortcut) file, you can use several methods. Here are a few options:
 
