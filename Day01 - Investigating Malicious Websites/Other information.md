@@ -45,6 +45,11 @@ If this command observed in logs or detected by security tools:
 3. **Quarantine the Script:** Inspect the file in an isolated environment
 4. **Restrict Execution:** Enforce strict execution in PowerShell. Monitor and block potentially harmful PowerShell commands using endpoint security solutions
 
+
+
+
+
+
 Multiple ways to inspect .lnk file to reveal embedded commands and attributes
 
 To view the content of a `.lnk` (shortcut) file, you can use several methods. Here are a few options:
@@ -82,6 +87,12 @@ You can also use PowerShell to get detailed information:
 These methods should help you view the content and properties of a `.lnk` file.
 
 More readings: https://belkasoft.com/forensic-analysis-of-lnk-files
+
+
+
+
+
+
 
 ```jsx
 function Print-AsciiArt {
