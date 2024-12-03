@@ -44,12 +44,10 @@ If this command observed in logs or detected by security tools:
 2. **Check System Logs:** Review logs for similar activity or further signs of compromise
 3. **Quarantine the Script:** Inspect the file in an isolated environment
 4. **Restrict Execution:** Enforce strict execution in PowerShell. Monitor and block potentially harmful PowerShell commands using endpoint security solutions
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 **Ways to inspect .lnk file to reveal embedded commands and attributes**
 
 To view the content of a `.lnk` (shortcut) file, you can use several methods. Here are a few options:
@@ -87,13 +85,10 @@ You can also use PowerShell to get detailed information:
 These methods should help you view the content and properties of a `.lnk` file.
 
 More readings: https://belkasoft.com/forensic-analysis-of-lnk-files
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 ```jsx
 function Print-AsciiArt {
     Write-Host "  ____     _       ___  _____    ___    _   _ "
