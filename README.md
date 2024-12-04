@@ -4,3 +4,4 @@ Each day consists of room description (as on the THM website), Questions and Ans
 
 Day01 - Investigating Malicious Website<br>
 Day02 - Inspecting SIEM<br>
+Day03 - Analysing logs from ELK<br>
