@@ -7,3 +7,6 @@ Day02 - Inspecting SIEM<br>
 Day03 - Analysing logs from ELK<br>
 Day04 - MITRE ATT&CK<br>
 Day05 - XML and XXE vulnerability<br>
+Day06 - Malware Analysis<br>
+Day07 - AWS Log Analysis<br>
+Day08 - 
