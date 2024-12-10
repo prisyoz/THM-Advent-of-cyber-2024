@@ -10,3 +10,4 @@ Day05 - XML and XXE vulnerability<br>
 Day06 - Malware Analysis<br>
 Day07 - AWS Log Analysis<br>
 Day08 - Shellcodes<br>
+Day09 - GRC<br>
