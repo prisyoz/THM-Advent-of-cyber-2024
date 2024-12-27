@@ -11,3 +11,9 @@ Day06 - Malware Analysis<br>
 Day07 - AWS Log Analysis<br>
 Day08 - Shellcodes<br>
 Day09 - GRC<br>
+Day10 - Phishing<br>
+Day11 - Wi-Fi Attacks<br>
+Day12 - Web Timing Attacks<br>
+Day13 - WebSockets<br>
+Day14 - Certificate Mismanagement<br>
+Day17 - Splunk Log analysis<br>
