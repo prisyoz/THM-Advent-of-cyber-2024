@@ -2,6 +2,8 @@
 
 When user submits their coupon code, in actual code of web app, a check is performed that the coupon is valid and hasn’t been used before. The discount is applied and only then the coupon code will be updated to indicate that it has already been used. 
 
+![12Ss01](https://github.com/user-attachments/assets/61ea3550-250d-4c3a-bdce-266bf68c1e4e)
+
 In above example, between the check if the coupon is valid and the update of the coupon being used, there are a couple of milliseconds where the coupon is applied. While it might seem small, if a threat actor can send two requests so close together in time, it might happen that before the coupon is updated in request 1, it has already been checked in request 2, meaning that both requests will apply the coupon
 
 **Intercepting the Request**
